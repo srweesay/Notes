@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Asynchronous JavaScript and Threads</title>
+    <style>
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+        }
+    </style>
 </head>
 <body>
     <h1>Asynchronous JavaScript and Threads</h1>
@@ -130,4 +138,3 @@ onmessage = function(event) {
 
 </body>
 </html>
-
